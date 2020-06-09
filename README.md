@@ -28,6 +28,22 @@ Along with jupyter some of ther following python libraries are also required to 
 4) joblib : pip install joblib
 5) matplotlib
 
+## About the Files
+#### Salary_Prediction.ipynb is the main file which contains the code.
+#### output.txt shows the error and accuracy rate of the project when tested on different models.
+#### Features.txt gives details about all the attributes of dataset.
+#### raw_data is the original file downloaded from UCI ML repository.
+#### data.csv is the excel file which contains the modified and cleaned data set.
+#### About_Data.names is the orginal file from UCI downloaded along raw_data
+#### adults.test is the testing data - used for prediction
+
+
+
 ## Credits
 The dataset was downloaded from the following link:
 https://archive.ics.uci.edu/ml/datasets/adult
+
+
+##License
+MIT License
+Copyright (c) 2020 Srashti-31
